@@ -1,0 +1,6 @@
+C:\Users\Nico\source\repos\Test\ConsoleApp1\bin\Debug\TreeDataStructure.exe.config
+C:\Users\Nico\source\repos\Test\ConsoleApp1\bin\Debug\TreeDataStructure.exe
+C:\Users\Nico\source\repos\Test\ConsoleApp1\bin\Debug\TreeDataStructure.pdb
+C:\Users\Nico\source\repos\Test\ConsoleApp1\obj\Debug\TreeDataStructure.csproj.CoreCompileInputs.cache
+C:\Users\Nico\source\repos\Test\ConsoleApp1\obj\Debug\TreeDataStructure.exe
+C:\Users\Nico\source\repos\Test\ConsoleApp1\obj\Debug\TreeDataStructure.pdb
