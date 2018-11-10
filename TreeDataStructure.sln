@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28010.2048
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TreeDataStructure", "TreeDataStructure\TreeDataStructure.csproj", "{76DB9EC3-8D1E-4621-B5CA-33E5FDB0E173}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Edges", "Edges\Edges.csproj", "{414A54D0-9723-4A26-96B8-B0694F9F1A43}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{76DB9EC3-8D1E-4621-B5CA-33E5FDB0E173}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{76DB9EC3-8D1E-4621-B5CA-33E5FDB0E173}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{76DB9EC3-8D1E-4621-B5CA-33E5FDB0E173}.Release|Any CPU.Build.0 = Release|Any CPU
+		{414A54D0-9723-4A26-96B8-B0694F9F1A43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{414A54D0-9723-4A26-96B8-B0694F9F1A43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{414A54D0-9723-4A26-96B8-B0694F9F1A43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{414A54D0-9723-4A26-96B8-B0694F9F1A43}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
